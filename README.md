@@ -1,4 +1,5 @@
-# cnn_galaxy_zoo
+# Convolutional Neural Network to Classify Galaxy Images.
+
 This is a Simple Machine Learning Implementation using Convolutional Neural Networks to classify optical galaxy images into spiral and elliptical patterns.
 
 The train and test dataset can be downloaded from this google drive link. 
